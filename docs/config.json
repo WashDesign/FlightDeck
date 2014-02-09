@@ -1,0 +1,16 @@
+{
+	"title": "WASH",
+	"tagline": "FlightDeck",
+	"docs_path": "docs",
+	"theme": "navy",
+    "float": true,
+	"date_modified": true,
+	"repo": "WashDesign/flightdeck",
+	"twitter": ["washdigital"],
+	"google_analytics": "UA-12653604-10",
+	"links": {
+		"Download": "https://github.com/WashDesign/flightdeck/archive/master.zip",
+		"GitHub Repo": "https://github.com/WashDesign",
+		"Made by Wash": "http://wash-design.co.uk"
+	}
+}
